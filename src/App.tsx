@@ -11,7 +11,6 @@ const App: React.FC = () => {
         backgroundColor: '#f9f9f9',
       }}
     >
-      {/* test */}
       <PipelineUI />
     </div>
     
